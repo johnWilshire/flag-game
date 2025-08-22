@@ -1,6 +1,56 @@
-# Getting Started with Create React App
+# 🌍 Flag Guessing Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A fun and educational React game where you test your knowledge of world flags! Built with React, TypeScript, and Mantine UI.
+
+## 🎮 How to Play
+
+1. Look at the flag displayed on screen
+2. Choose the correct country from the 4 multiple choice options
+3. Get immediate feedback on your answer
+4. Track your score and accuracy
+5. Click "Next Flag" to continue or "Reset Game" to start over
+
+## 🚀 Features
+
+- Over 250 country flags from around the world
+- Beautiful, modern UI with Mantine components
+- Real-time scoring and progress tracking
+- Responsive design that works on all devices
+- Immediate feedback with correct answer highlighting
+- TypeScript for better code quality and development experience
+
+## 🛠️ Built With
+
+- **React 18** - Modern React with hooks
+- **TypeScript** - Type-safe JavaScript
+- **Mantine** - Beautiful React components library
+- **Country Data** - Comprehensive country and flag dataset
+
+## 🚀 Quick Start
+
+1. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+2. **Start development server:**
+   ```bash
+   npm start
+   ```
+
+3. **Open your browser:** Navigate to [http://localhost:3000](http://localhost:3000)
+
+## 📦 Deployment
+
+To deploy to GitHub Pages:
+
+1. **Update homepage** in `package.json` with your GitHub username
+2. **Deploy:**
+   ```bash
+   npm run deploy
+   ```
+
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment instructions.
 
 ## Available Scripts
 
